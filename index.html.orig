@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+<title>This is index.html</title>
+<<<<<<< HEAD
+<h1>Git is Version Control System -added by user1 </h1>
+=======
+<h2>Git is Version Control System -added by user2 </h2>
+>>>>>>> 1c59e0b (added file for user2)
+</body>
+</html>
